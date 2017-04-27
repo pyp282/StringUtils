@@ -1,0 +1,17 @@
+{
+     "PrivacyDomains" : [
+       "apireseller.com", "helloworld.org" 
+   ],
+     "TransferDomains" : [
+       "google.com", "facebook.net", "facebook.net",
+       "facebook.net", "facebook.net", "facebook.net",
+       "facebook.net", "facebook.net", "google.com",
+       "facebook.net", "facebook.net", "facebook.net",
+       "facebook.net", "facebook.net", "facebook.net",
+       "facebook.net" 
+   ],
+     "RenewalDomains" : [
+       "Fri Apr 21 13:25:37 CST 2017", "sina.us" 
+   ]
+
+}

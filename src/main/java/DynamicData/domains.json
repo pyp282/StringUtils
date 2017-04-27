@@ -1,0 +1,89 @@
+{
+   "ote":
+   {
+      "PrivacyDomains":
+      [
+         "apireseller.com", "helloworld.org", "apireseller.com",
+         "helloworld.org", "apireseller.com", "helloworld.org",
+         "apireseller.com", "helloworld.org", "apireseller.com",
+         "helloworld.org", "apireseller.com", "helloworld.org",
+         "apireseller.com", "helloworld.org", "apireseller.com",
+         "helloworld.org"
+      ],
+       "TransferDomains":
+      [
+         "google.com", "APIRESELLERFJSOWIRLSK.NET", "APIRESELLERFJSOWIRLSK.NET",
+         "APIRESELLERFJSOWIRLSK.NET", "APIRESELLERFJSOWIRLSK.NET", "APIRESELLERFJSOWIRLSK.NET",
+         "APIRESELLERFJSOWIRLSK.NET", "APIRESELLERFJSOWIRLSK.NET", "APIRESELLERFJSOWIRLSK.NET",
+         "APIRESELLERFJSOWIRLSK.NET", "APIRESELLERFJSOWIRLSK.NET", "APIRESELLERFJSOWIRLSK.NET",
+         "facebook.net", "facebook.net", "facebook.net",
+         "facebook.net", "facebook.net", "facebook.net",
+         "facebook.net", "facebook.net", "facebook.net",
+         "facebook.net", "facebook.net", "facebook.net"
+      ],
+       "RenewalDomains":
+      [
+         "baidu.com", "sina.us", "baidu.com",
+         "sina.us", "baidu.com", "sina.us",
+         "baidu.com", "sina.us", "baidu.com",
+         "sina.us", "baidu.com", "sina.us",
+         "baidu.com", "sina.us", "baidu.com",
+         "sina.us", "baidu.com", "sina.us",
+         "baidu.com", "sina.us"
+      ]
+
+   },
+    "test":
+   {
+      "PrivacyDomains":
+      [
+         "helloworld.org", "apireseller.com", "helloworld.org"
+      ],
+       "TransferDomains":
+      [
+         "facebook.net", "facebook.net", "facebook.net"
+      ],
+       "RenewalDomains":
+      [
+         "baidu.com", "sina.us", "baidu.com",
+         "sina.us", "baidu.com", "sina.us",
+         "baidu.com", "sina.us"
+      ]
+
+   },
+    "dev":
+   {
+      "PrivacyDomains":
+      [
+         "apireseller.com", "helloworld.org", "apireseller.com",
+         "helloworld.org", "apireseller.com", "helloworld.org",
+         "apireseller.com", "helloworld.org", "apireseller.com",
+         "helloworld.org", "apireseller.com", "helloworld.org",
+         "apireseller.com", "helloworld.org", "apireseller.com",
+         "helloworld.org"
+      ],
+       "TransferDomains":
+      [
+         "google.com", "APIRESELLERFJSOWIRLSK.NET", "APIRESELLERFJSOWIRLSK.NET",
+         "APIRESELLERFJSOWIRLSK.NET", "APIRESELLERFJSOWIRLSK.NET", "APIRESELLERFJSOWIRLSK.NET",
+         "APIRESELLERFJSOWIRLSK.NET", "APIRESELLERFJSOWIRLSK.NET", "APIRESELLERFJSOWIRLSK.NET",
+         "APIRESELLERFJSOWIRLSK.NET", "APIRESELLERFJSOWIRLSK.NET", "APIRESELLERFJSOWIRLSK.NET",
+         "facebook.net", "facebook.net", "facebook.net",
+         "facebook.net", "facebook.net", "facebook.net",
+         "facebook.net", "facebook.net", "facebook.net",
+         "facebook.net", "facebook.net", "facebook.net"
+      ],
+       "RenewalDomains":
+      [
+         "baidu.com", "sina.us", "baidu.com",
+         "sina.us", "baidu.com", "sina.us",
+         "baidu.com", "sina.us", "baidu.com",
+         "sina.us", "baidu.com", "sina.us",
+         "baidu.com", "sina.us", "baidu.com",
+         "sina.us", "baidu.com", "sina.us",
+         "baidu.com", "sina.us"
+      ]
+
+   }
+
+}

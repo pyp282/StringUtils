@@ -1,0 +1,17 @@
+{
+  "ote": {
+    "RenewalDomains": [],
+    "PrivacyDomains": [],
+    "TransferDomains": []
+  },
+  "test": {
+    "RenewalDomains": [],
+    "PrivacyDomains": [],
+    "TransferDomains": []
+  },
+  "dev": {
+    "RenewalDomains": [],
+    "PrivacyDomains": [],
+    "TransferDomains": []
+  }
+}a
