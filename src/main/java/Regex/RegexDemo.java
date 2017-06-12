@@ -1,7 +1,12 @@
 package Regex;
 
+import java.io.BufferedInputStream;
+import java.io.FileInputStream;
+import java.io.InputStream;
+import java.sql.DriverManager;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Observable;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -52,6 +57,14 @@ public class RegexDemo {
             System.out.println("Masking = " + matcher.group(2));
 
         }
+    }
+
+    public void design(){
+        Observable observable = new Observable();
+        InputStream inputStream;
+        FileInputStream fileInputStream;
+        BufferedInputStream bufferedInputStream;
+        DriverManager driverManager;
     }
 
     

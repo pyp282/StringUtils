@@ -1,4 +1,4 @@
-package DesiginPattern;
+package DesiginPattern.ObserverPattern;
 
 public interface Subject {
     void registerObserver(Observer observer);
